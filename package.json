@@ -16,7 +16,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@mdx-js/react": "^3.0.0",
+    "@mdx-js/react": "^2.3.0",
     "gatsby": "^5.12.4",
     "gatsby-plugin-mdx": "^5.12.3",
     "gatsby-source-filesystem": "^5.12.1",
